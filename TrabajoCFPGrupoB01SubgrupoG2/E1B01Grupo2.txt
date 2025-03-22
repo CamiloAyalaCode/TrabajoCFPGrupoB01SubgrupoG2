@@ -1,0 +1,8 @@
+1. ANDRES BARRAGAN SALAZAR
+2. DIANA CAROLINA BOLIVAR BUITRAGO
+3. JORGE BORBON ROMERO
+4. GERMAN BUENO VILLARREAL
+5. CAMILO AYALA MENDOZA
+
+Repositorio: https://github.com/CamiloAyalaCode/ProyectoCFPB01Grupo2.git
+Repositorio adicional con código alternativo: https://github.com/CamiloAyalaCode/TrabajoCFPGrupoB01SubgrupoG2.git
